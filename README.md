@@ -1,11 +1,14 @@
 
 <br clear="both">
 
-<h5 align="left">Hi ! My name is Abdunazar and I'm a  Front-end web developer from Uzbekistan,</h5>
+<h5 align="left">Hi ! My name is Abdunazar and I'm a  Front-end web developer with advanced English from Uzbekistan,
+  you can contact with telegramm,linkedin,if you can't ,try my gmail:abu040810@gmail.com.
+</h5>
 
 ###
 
 <div align="left">
+  <h4 align="center" style="color:green">Some technologies that i know </h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
