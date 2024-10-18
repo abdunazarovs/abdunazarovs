@@ -1,7 +1,7 @@
 
 <br clear="both">
 
-<h5 align="left">Hi ! My name is Abdunazar and I'm a react front-end web developer from Uzbekistan,</h5>
+<h5 align="left">Hi ! My name is Abdunazar and I'm a  Front-end web developer from Uzbekistan,</h5>
 
 ###
 
